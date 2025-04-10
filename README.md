@@ -10,6 +10,7 @@
 ###
 
 <img align="right" height="150" src="https://drive.google.com/file/d/1UYJNURZYsNRrnixgPRSEt8y7HLIC8J0j/view?usp=drive_link"  />
+<iframe src="https://drive.google.com/file/d/1UYJNURZYsNRrnixgPRSEt8y7HLIC8J0j/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ###
 
@@ -44,8 +45,10 @@
 
 ###
 
-<br clear="both">
+<!-- Snake Game Repo View -->
 
-<img src="https://raw.githubusercontent.com/1RITIK-ANAND/1RITIK-ANAND/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ###
