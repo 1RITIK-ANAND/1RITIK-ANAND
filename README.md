@@ -49,8 +49,3 @@
 <img src="https://raw.githubusercontent.com/1RITIK-ANAND/1RITIK-ANAND/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
