@@ -36,10 +36,10 @@ https://github.com/user-attachments/assets/21f53a74-1b7a-4bf0-b81a-0ae05566fe4d
   <a href="https://www.instagram.com/ritzknowseverything?igsh=ODBvbTZhb2tpbnV5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="ritikanand243@gmail.com" target="_blank">
+  <a href="mailto:ritikanand243@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/ritikanand243" target="_blank">
+  <a href="https://www.linkedin.com/in/ritikanand243" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/Ritik__Anand?t=LPa3HUSKbG0i8mp9xswxdg&s=09" target="_blank">
